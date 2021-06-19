@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import "github.com/udaya2899/chitbro-backend/server"
 
 func main() {
-	fmt.Println("Welcome to chitbrooooo")
+	server.Run()
 }
